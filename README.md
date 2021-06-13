@@ -17,7 +17,7 @@ Display | 5" 1920 x 1080 px
 Rear Camera | 13MP (OV) + 2MP (SP)
 Front Camera | 16MP (Samsung)
 
-![Elephone P8_Mini](https://www.elephone.hk/Themes/ElephoneStore/Content/images/space.png "Elephone P8_Mini in blue")
+![Elephone P8_Mini](https://www.devicespecifications.com/images/model/f9e54352/320/main.jpg "Elephone P8_Mini in black")
 
 This branch is for building TWRP (device tree for 7/7.1 at least)
 
